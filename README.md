@@ -1,4 +1,4 @@
-# Scikit-learn data engineering group
+# Scikit-learn Data Science group
 
 Model(s) predicting countries winning medals in particular sports
 
